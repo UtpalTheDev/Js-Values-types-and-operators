@@ -5,9 +5,10 @@ Data is the most important component in the computer used to define information 
 
 Lets take a number 15,
 
-| 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 |
-| --- | --- | : --- | : --- | :--- | :--- | :--- |
-|128 |64 |32 |16 |8 |4 |2 |1 |
+
+|  0  |   0 |   0 |   0 |   1 |   1 |   1 |   1 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
 
 So, 00001111 is the binary number for 15. Its non zero digits stands  for 8,4,2 and 1 and after adding them result came as 15.
 
